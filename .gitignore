@@ -1,0 +1,7 @@
+*.dSYM
+.DS_Store
+target
+main
+input*.txt
+.envrc
+.env
