@@ -8,6 +8,7 @@ mod tests {
     use super::*;
 
     #[test]
+    #[ignore]
     fn test_process() -> miette::Result<()> {
         todo!("haven't built test yet");
         let input = "";
